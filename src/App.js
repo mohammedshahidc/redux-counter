@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
-import 
+import Counterreducer from './reducers/Counterreducer';
 
 function App() {
   return (
     <>
-    
+    <Counterreducer/>
     </>
    
   );
